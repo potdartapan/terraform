@@ -133,3 +133,4 @@ resource "azurerm_linux_virtual_machine" "my_terraform_vm" {
 #comment
 #update
 #update 2
+#commit
